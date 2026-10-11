@@ -2,7 +2,8 @@ import { useState, useEffect } from 'react';
 import './StockAlerts.css';
 
 const API_BASE =
-  import.meta.env.VITE_API_BASE_URL || 'http://localhost:5001';
+  import.meta.env.VITE_API_BASE_URL ||
+  'https://mealmap-api-7vkv.onrender.com';
   
 function StockAlerts() {
   const [stockData, setStockData] = useState(null);
