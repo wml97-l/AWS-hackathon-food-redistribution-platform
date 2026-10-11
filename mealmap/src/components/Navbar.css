@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, var(--fc-teal) 0%, var(--fc-teal-dark) 100%);
+  box-shadow: 0 2px 8px rgba(53, 121, 147, 0.2);
+}
+
+.navbar-brand a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.navbar-logo-img {
+  height: 50px;
+  width: auto;
+  display: block;
+  filter: brightness(0) invert(1);
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    padding: 1rem;
+  }
+}
