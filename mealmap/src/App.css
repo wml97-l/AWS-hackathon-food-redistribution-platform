@@ -1,0 +1,32 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f5f7fa;
+}
+
+.main-content {
+  flex: 1;
+}
+
+/* Placeholder content for pages without data */
+.placeholder-content {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: #f0f4f8;
+  border-radius: 12px;
+  margin: 2rem;
+  border: 2px dashed #ccd5e0;
+}
+
+.placeholder-content p {
+  margin: 0.5rem 0;
+  color: #64748b;
+  font-size: 1.1rem;
+}
+
+.placeholder-content p:first-child {
+  font-weight: 600;
+  color: #475569;
+  font-size: 1.2rem;
+}

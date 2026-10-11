@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  /* FC Brand Colors */
+  --fc-teal: #357993;
+  --fc-teal-dark: #2a6176;
+  --fc-teal-light: #eaf2f5;
+  --fc-green: #8ED973;
+  --fc-green-light: #E8F5E1;
+  --fc-mint: #5BC2A8;
+  --fc-coral: #FF6F61;
+  --fc-coral-light: #FFE8E5;
+  --fc-gold: #FFC425;
+  --fc-gold-light: #FFF8E1;
+  --fc-gray: #C4BCB7;
+  --fc-gray-dark: #6B6B6B;
+  --fc-gray-light: #F5F5F5;
+
+  /* Text colors */
+  --text-primary: #2D3436;
+  --text-secondary: #636E72;
+  --text-light: #B2BEC3;
+
+  /* Background */
+  --bg-main: #F8FAFA;
+  --bg-white: #FFFFFF;
+
+  font-family: 'Nunito', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text-primary);
+  background-color: var(--bg-main);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: 700;
+}
+
+button {
+  font-family: inherit;
+}
+
+input, select {
+  font-family: inherit;
+}
