@@ -16,7 +16,7 @@ import {
 } from 'recharts';
 import './DistributionAnalytics.css';
 
-const API_BASE = 'http://localhost:5001';
+const API_BASE = 'https://mealmap-api-7vkv.onrender.com';
 
 const COLORS = ['#00b2a9', '#f59e0b', '#8b5cf6', '#ec4899', '#10b981', '#3b82f6'];
 const LOCATION_COLORS = {
