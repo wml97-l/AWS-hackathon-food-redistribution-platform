@@ -3,3 +3,4 @@ flask-cors
 boto3
 pandas
 strands-agents
+gunicorn
