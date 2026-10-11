@@ -29,8 +29,6 @@ Built at the **AWS Breaking Barriers Hackathon** for the **FoodCloud** challenge
   as an inline video player. Delete this comment afterwards.
 -->
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
-
 <p align="center">
   <img src="docs/mealmap-demo.gif" alt="MealMap dashboard walkthrough" width="100%">
 </p>
