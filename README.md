@@ -200,7 +200,7 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:5173/AWS-hackathon-food-redistribution-platform/>
+Open <https://wml97-l.github.io/AWS-hackathon-food-redistribution-platform/>
 
 **Record your own demo video:** with both servers running, `python docs/record_demo.py --ask "your question"` produces a fresh screen recording using Playwright.
 
