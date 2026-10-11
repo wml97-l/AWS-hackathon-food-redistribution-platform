@@ -1,0 +1,11 @@
+request_id,charity_name,requested_category,quantity_kg,membership_tier,request_date
+REQ-001,"SVP South West Region - St Fiacra`s",TINNED,50,Gold,2024-01-15
+REQ-002,"SVP Drop-In Centre, Limerick",TINNED,30,Gold,2024-01-15
+REQ-003,Claremorris Social and Family Centre,SMD,20,Silver,2024-01-16
+REQ-004,SVP West Region,OTHER FOOD,85,Silver,2024-01-16
+REQ-005,Sligo Social Service Council,TINNED,100,Bronze,2024-01-16
+REQ-006,"SVP Clara (St Bridget's Conference)",DRINKS,40,Gold,2024-01-17
+REQ-007,Fidelis,DRINKS,20,Gold,2024-01-18
+REQ-008,Barnardos Thurles,SMD,25,Silver,2024-01-18
+REQ-009,Tacu FRC Ballinrobe,OTHER FOOD,35,Bronze,2024-01-19
+REQ-010,Ballinskelligs Community Care,SMD,15,Silver,2024-01-19

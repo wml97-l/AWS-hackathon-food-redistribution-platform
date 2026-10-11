@@ -1,0 +1,3819 @@
+{
+    "Artizan Foods": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS"
+        ],
+        "avg_order_kg": 21.0
+    },
+    "Fidelis": {
+        "location": "DUBLIN",
+        "membership_tier": "Gold",
+        "active_requests": [
+            {
+                "category": "DRINKS",
+                "quantity": 20.0,
+                "date": "2024-01-18"
+            }
+        ],
+        "preferences": [
+            "DRINKS"
+        ],
+        "avg_order_kg": 13.5
+    },
+    "SVP South West Region - St Fiacra`s": {
+        "location": "CORK",
+        "membership_tier": "Gold",
+        "active_requests": [
+            {
+                "category": "TINNED",
+                "quantity": 50.0,
+                "date": "2024-01-15"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 171.4
+    },
+    "SVP Broadford Limerick": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 46.23
+    },
+    "SVP Drop-In Centre, Limerick": {
+        "location": "CORK",
+        "membership_tier": "Gold",
+        "active_requests": [
+            {
+                "category": "TINNED",
+                "quantity": 30.0,
+                "date": "2024-01-15"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 60.98
+    },
+    "Claremorris Social and Family Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Silver",
+        "active_requests": [
+            {
+                "category": "SMD",
+                "quantity": 20.0,
+                "date": "2024-01-16"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.55
+    },
+    "SVP West Region": {
+        "location": "GALWAY",
+        "membership_tier": "Silver",
+        "active_requests": [
+            {
+                "category": "OTHER FOOD",
+                "quantity": 85.0,
+                "date": "2024-01-16"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 90.96
+    },
+    "Sligo Social Service Council": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [
+            {
+                "category": "TINNED",
+                "quantity": 100.0,
+                "date": "2024-01-16"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 57.85
+    },
+    "SVP Clara (St Bridget's Conference)": {
+        "location": "GALWAY",
+        "membership_tier": "Gold",
+        "active_requests": [
+            {
+                "category": "DRINKS",
+                "quantity": 40.0,
+                "date": "2024-01-17"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 15.33
+    },
+    "Barnardos Thurles": {
+        "location": "CORK",
+        "membership_tier": "Silver",
+        "active_requests": [
+            {
+                "category": "SMD",
+                "quantity": 25.0,
+                "date": "2024-01-18"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.96
+    },
+    "Tacu FRC Ballinrobe": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [
+            {
+                "category": "OTHER FOOD",
+                "quantity": 35.0,
+                "date": "2024-01-19"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 23.9
+    },
+    "Ballinskelligs Community Care": {
+        "location": "CORK",
+        "membership_tier": "Silver",
+        "active_requests": [
+            {
+                "category": "SMD",
+                "quantity": 15.0,
+                "date": "2024-01-19"
+            }
+        ],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 16.95
+    },
+    "Cork City LSS": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 71.12
+    },
+    "IUNVA": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 6.21
+    },
+    "Teach Na nDaoine Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 28.71
+    },
+    "Barnardos Limerick North": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 20.25
+    },
+    "Barnardos Ballyogan": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.35
+    },
+    "Barnardos Lorien": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.49
+    },
+    "Barnardos Loughlinstown": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 9.06
+    },
+    "Finglas Addiction Support Team": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 71.19
+    },
+    "PATH Portlaoise": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 40.29
+    },
+    "The Forge FRC": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 37.41
+    },
+    "Donore CDAT": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 18.26
+    },
+    "Clondalkin Cares Food Bank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 41.52
+    },
+    "Barnardos Ballybeg Family Support Project": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 19.31
+    },
+    "SVP Mid Tipp": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 24.47
+    },
+    "Pilltown Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD"
+        ],
+        "avg_order_kg": 18.36
+    },
+    "Discovery Church Galway": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "MEAT",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 19.23
+    },
+    "Barnardos Mahon": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 11.37
+    },
+    "DePaul McGwire Mens Hostel": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 47.18
+    },
+    "Barnardos Clonmel": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.17
+    },
+    "Barnardos Corduff": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 14.53
+    },
+    "Barnardos Bawnlea": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 9.88
+    },
+    "Barnardos Knocknaheeny": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 20.77
+    },
+    "Barnardos Carlow": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 14.99
+    },
+    "Barnardos Bray Family Support": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 6.24
+    },
+    "Barnardos Wexford Family Support Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 7.36
+    },
+    "SVP Newcastlewest and Askeaton": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 80.15
+    },
+    "Abbey Quarter Community Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 81.56
+    },
+    "ADAPT Domestic Abuse Services": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 24.66
+    },
+    "Aisling Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 28.62
+    },
+    "An Cosan": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DAIRY",
+            "VEGETABLES",
+            "DRINKS",
+            "BREAD",
+            "MEAT"
+        ],
+        "avg_order_kg": 5.29
+    },
+    "Associated Charities Trust CLG": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 34.21
+    },
+    "Athy Community & Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "HERB/SPICE/CONDIMENT",
+            "FRUIT",
+            "BREAKFAST",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 11.28
+    },
+    "Atlantic Technological University": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "TINNED",
+            "BREAKFAST",
+            "DAIRY",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 14.12
+    },
+    "Balbriggan Meals on Wheels": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "BREAD",
+            "FRUIT"
+        ],
+        "avg_order_kg": 7.33
+    },
+    "Ballinasloe Social Services Ltd": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DAIRY",
+            "MEAT"
+        ],
+        "avg_order_kg": 29.21
+    },
+    "Barnardos Dun Laoghaire": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 22.19
+    },
+    "Barnardos Finglas Early Years Service": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 22.24
+    },
+    "Barnardos Limerick South": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 13.91
+    },
+    "Barnardos Millbrook": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "VEGETABLES",
+            "OTHER FOOD",
+            "BREAD"
+        ],
+        "avg_order_kg": 8.03
+    },
+    "Barnardos Mulhuddart Family Support": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 19.76
+    },
+    "Barnardos Rialto and Tallaght TPSP": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.63
+    },
+    "Barnardos Waterford and Dungarvan": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.01
+    },
+    "Bee Park Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 44.62
+    },
+    "Bethlehem Christian Fellowship": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "FRUIT",
+            "VEGETABLES",
+            "SAVOURY SNACKS",
+            "READY MEALS",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 22.6
+    },
+    "Blackpool Community Co-operative Service Centre Limited": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 16.68
+    },
+    "Boyle Family Resource Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 57.17
+    },
+    "Bray Area Partnership": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "BREAKFAST",
+            "TINNED",
+            "BREAD"
+        ],
+        "avg_order_kg": 16.57
+    },
+    "Breffni Community Development": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 18.5
+    },
+    "Brickens Meals on Wheels": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "TINNED",
+            "DAIRY",
+            "DRINKS",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 21.07
+    },
+    "Bushy Park Addiction Treatment Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DAIRY",
+            "DRINKS",
+            "CONFECTIONERY",
+            "MEAT"
+        ],
+        "avg_order_kg": 7.7
+    },
+    "Calvary Christian Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "FRUIT",
+            "DAIRY",
+            "CONFECTIONERY",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 26.82
+    },
+    "Camino Network St James Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "BREAD",
+            "DRINKS",
+            "OTHER FOOD",
+            "FRUIT"
+        ],
+        "avg_order_kg": 5.57
+    },
+    "Capuchin Day Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD"
+        ],
+        "avg_order_kg": 647.4
+    },
+    "Care & Share (RCCG Seat of Mercy)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "RICE/PASTA/PULSES",
+            "TINNED",
+            "DAIRY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 25.45
+    },
+    "Caring is sharing": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SAVOURY SNACKS",
+            "CONFECTIONERY",
+            "VEGETABLES",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 9.27
+    },
+    "Carlow Day Care Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 35.84
+    },
+    "Carlow Senior Citizens Association": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 25.77
+    },
+    "Cashel Social Services (Meals on Wheels)": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 17.47
+    },
+    "Castlecoote Companions ARI": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 9.97
+    },
+    "Charleville Sheltered Housing Services": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "BREAKFAST",
+            "DRINKS",
+            "FRUIT",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 13.76
+    },
+    "Church of God Charitable Trust": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "TINNED",
+            "VEGETABLES",
+            "BREAKFAST",
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 16.15
+    },
+    "Churchfield Community Trust CLG": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "TINNED",
+            "MEAT",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 9.3
+    },
+    "Citywise Education": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "BREAD",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 5.05
+    },
+    "Clann Housing Carrigtwohill": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 18.53
+    },
+    "Clar ICH CLG": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "SMD",
+            "VEGETABLES",
+            "TINNED",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 38.12
+    },
+    "Clonakilty Community Care": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAKFAST",
+            "TINNED",
+            "DAIRY"
+        ],
+        "avg_order_kg": 9.69
+    },
+    "Clondalkin Tus Nua": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "VEGETABLES",
+            "DRINKS"
+        ],
+        "avg_order_kg": 16.72
+    },
+    "Clonmany Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "BREAKFAST",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 34.21
+    },
+    "Cobh Youth Services": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 13.39
+    },
+    "Community Lynks Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAKFAST",
+            "DAIRY",
+            "FRUIT"
+        ],
+        "avg_order_kg": 8.98
+    },
+    "Connect FRC": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "VEGETABLES",
+            "DAIRY",
+            "BREAD"
+        ],
+        "avg_order_kg": 20.06
+    },
+    "Connolly Children's Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 17.91
+    },
+    "Coolmine House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "CONFECTIONERY",
+            "MEAT"
+        ],
+        "avg_order_kg": 4.42
+    },
+    "Coolmine Lodge": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "FRUIT",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 6.34
+    },
+    "Coolmine Therapeutic Community - Ashleigh House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "SMD",
+            "VEGETABLES",
+            "OTHER FOOD",
+            "DAIRY"
+        ],
+        "avg_order_kg": 9.31
+    },
+    "Coolmine Therapeutic Community Limerick": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 16.56
+    },
+    "COPE Galway": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DAIRY",
+            "DRINKS"
+        ],
+        "avg_order_kg": 83.98
+    },
+    "Core Youth Service": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.97
+    },
+    "Cork Life Centre": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.39
+    },
+    "Cork Migrant Centre": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "RICE/PASTA/PULSES",
+            "BREAKFAST",
+            "VEGETABLES",
+            "PRESERVES"
+        ],
+        "avg_order_kg": 18.78
+    },
+    "Cork Sick Poor Society": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "TINNED",
+            "DRINKS",
+            "HOT DRINKS",
+            "BREAKFAST",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 13.79
+    },
+    "Cork Simon Community": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "TINNED",
+            "OTHER FOOD",
+            "MEAT"
+        ],
+        "avg_order_kg": 20.43
+    },
+    "Crann Support Group (Giggles)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "SAVOURY SNACKS",
+            "CONFECTIONERY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 5.5
+    },
+    "Crosscare Jobstown CFB": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAD",
+            "COOKING SAUCE",
+            "BREAKFAST",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 5.79
+    },
+    "Crosscare North": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.83
+    },
+    "Crosscare South": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.74
+    },
+    "Cuan Mhuire Athy CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 60.64
+    },
+    "Cuan Mhuire Ballybay": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 18.49
+    },
+    "Cuan Mhuire Bruree": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "SMD",
+            "MEAT",
+            "OTHER FOOD",
+            "DRINKS"
+        ],
+        "avg_order_kg": 105.32
+    },
+    "Cuan Mhuire Farnanes": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "SMD",
+            "DRINKS",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 35.19
+    },
+    "Cuan Mhuire Galway (Coolarne)": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "SMD",
+            "VEGETABLES",
+            "DAIRY",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 22.86
+    },
+    "Cuan Mhuire Gardiner Street": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 30.59
+    },
+    "D12 Community FoodBank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "BREAKFAST",
+            "SAVOURY SNACKS",
+            "TINNED",
+            "DRINKS",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 15.15
+    },
+    "Darndale Food Bank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 28.68
+    },
+    "Daughters of Charity Community Services - Day Care": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "TINNED",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 6.27
+    },
+    "Daughters of Charity Community Services - Saint Vincents CTC": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "TINNED",
+            "VEGETABLES",
+            "DAIRY",
+            "HOT DRINKS"
+        ],
+        "avg_order_kg": 7.12
+    },
+    "DCU Student Life": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "HERB/SPICE/CONDIMENT",
+            "COOKING SAUCE",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 9.0
+    },
+    "De Paul Barrow Place (Monastery Hostel)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "OTHER FOOD",
+            "SMD",
+            "DAIRY",
+            "BREAD"
+        ],
+        "avg_order_kg": 7.51
+    },
+    "dePaul Anglesey St Hostel": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "MEAT",
+            "DAIRY",
+            "BREAD",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 13.98
+    },
+    "DePaul Deerpark House": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 56.48
+    },
+    "DePaul Dublin": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 125.1
+    },
+    "DePaul Dublin (Back Lane)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "VEGETABLES",
+            "COOKING SAUCE",
+            "BREAD"
+        ],
+        "avg_order_kg": 10.16
+    },
+    "DePaul Sundial House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "MEAT",
+            "VEGETABLES",
+            "DAIRY",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 9.22
+    },
+    "DePaul Wexford Ozanam House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "SAVOURY SNACKS",
+            "DRINKS"
+        ],
+        "avg_order_kg": 21.64
+    },
+    "Desmond Community Complex": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "TINNED",
+            "COOKING SAUCE",
+            "RICE/PASTA/PULSES",
+            "DAIRY"
+        ],
+        "avg_order_kg": 7.42
+    },
+    "Donegal Family Resource Centre CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 39.57
+    },
+    "Doras Bui": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "TINNED",
+            "VEGETABLES",
+            "BREAD",
+            "SAVOURY SNACKS",
+            "DRINKS"
+        ],
+        "avg_order_kg": 5.31
+    },
+    "Drogheda Homeless Aid": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 22.22
+    },
+    "Dublin Christian Mission/The Lighthouse": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "DRINKS",
+            "DAIRY",
+            "(<3 DAYS)"
+        ],
+        "avg_order_kg": 33.33
+    },
+    "Dublin Northwest Partnership": {
+        "location": "Unknown",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 3.58
+    },
+    "Dublin Simon - Recovery Service Ushers": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "VEGETABLES",
+            "SAVOURY SNACKS",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 6.97
+    },
+    "Dublin Simon Chester House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "BREAD",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 7.56
+    },
+    "Dublin Simon Community - Harcourt Street": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAD",
+            "HERB/SPICE/CONDIMENT",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 7.97
+    },
+    "Dublin Simon Community (Chapelizod)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 36.28
+    },
+    "Dublin Simon Community Riversdale House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "MEAT",
+            "DAIRY",
+            "FRUIT"
+        ],
+        "avg_order_kg": 6.61
+    },
+    "Dublin Simon Maple House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "COOKING SAUCE",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 9.74
+    },
+    "Dublin Simon Oak House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAD",
+            "VEGETABLES",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 6.21
+    },
+    "Duhallow Community Food Services": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "RICE/PASTA/PULSES",
+            "COOKING SAUCE",
+            "CONFECTIONERY",
+            "TINNED"
+        ],
+        "avg_order_kg": 60.45
+    },
+    "Elim Ministries (Tallaght Family Church)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "OTHER FOOD",
+            "SAVOURY SNACKS",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 11.68
+    },
+    "Elphin Social Services Ltd": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 19.87
+    },
+    "Empower Local Development CLG - Balbriggan": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "TINNED",
+            "COOKING SAUCE",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 16.75
+    },
+    "Empower Local Development CLG - Clonsilla": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "OTHER FOOD",
+            "TINNED",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 19.47
+    },
+    "Feed Bandon - Bandon Methodist Church": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "RICE/PASTA/PULSES",
+            "TINNED"
+        ],
+        "avg_order_kg": 9.5
+    },
+    "Feed Clare": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 12.47
+    },
+    "Feed Clare New Life Pentecostal Church": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 47.06
+    },
+    "Feed Cork": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "VEGETABLES",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 53.04
+    },
+    "Feed Dublin": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 13.11
+    },
+    "Feed Our Homeless": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 171.34
+    },
+    "Feed West Cork (Drimoleague Methodist Church)": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "TINNED",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 11.57
+    },
+    "Finglas Youth Resource Centre Ltd": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "CONFECTIONERY",
+            "BREAD"
+        ],
+        "avg_order_kg": 7.73
+    },
+    "Focus Ireland (Back Lane Hostel)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 18.14
+    },
+    "Food Connect": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "BREAKFAST",
+            "TINNED",
+            "DAIRY"
+        ],
+        "avg_order_kg": 9.49
+    },
+    "Food Rescue Dublin Friday JADD": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "SAVOURY SNACKS",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 34.34
+    },
+    "Food Rescue Dublin Thursday Cheeverstown": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "BREAD",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 27.78
+    },
+    "Food Rescue Dublin Tuesday St. Andrews ~ JADD Tallaght": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "SAVOURY SNACKS",
+            "BREAD"
+        ],
+        "avg_order_kg": 19.39
+    },
+    "Food Rescue Dublin Wednesday Whitefriar ~ JADD": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "HERB/SPICE/CONDIMENT",
+            "VEGETABLES",
+            "SAVOURY SNACKS",
+            "FRUIT"
+        ],
+        "avg_order_kg": 26.02
+    },
+    "Food Rescue Monday JADD": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "SAVOURY SNACKS",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 27.72
+    },
+    "FoodCloud Kitchen": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "MEAT",
+            "DAIRY",
+            "DRINKS",
+            "FRUIT"
+        ],
+        "avg_order_kg": 12.41
+    },
+    "Foodshare Kerry": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "VEGETABLES",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 158.51
+    },
+    "Foroige HAY Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SAVOURY SNACKS",
+            "DRINKS",
+            "VEGETABLES",
+            "TINNED",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 9.23
+    },
+    "Forum Connemara Ltd": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 13.39
+    },
+    "Friends of the Elderly": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 11.65
+    },
+    "FT Friday Kilinarden Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "FRUIT",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 64.83
+    },
+    "FT Thursday Northside Home care Services": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "CONFECTIONERY",
+            "DESSERT AND CAKE",
+            "FRUIT",
+            "VEGETABLES",
+            "BREAD"
+        ],
+        "avg_order_kg": 10.64
+    },
+    "Galway Traveller Movement": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "VEGETABLES",
+            "DAIRY",
+            "TINNED"
+        ],
+        "avg_order_kg": 15.53
+    },
+    "Glin Court Meals on Wheels (NCU)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.91
+    },
+    "Good Shepherd Centre Kilkenny Ltd": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 44.74
+    },
+    "Gorey Christian Assembly/Stop Gap Food Bank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "COOKING SAUCE",
+            "VEGETABLES",
+            "BREAD"
+        ],
+        "avg_order_kg": 13.07
+    },
+    "Gort Resource Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "BREAKFAST",
+            "TINNED"
+        ],
+        "avg_order_kg": 11.8
+    },
+    "Grace Life Ministries": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "TINNED",
+            "BREAKFAST",
+            "COOKING SAUCE",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 13.91
+    },
+    "Guild of the Little Flower (Penny Dinners)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "MEAT",
+            "DAIRY",
+            "CONFECTIONERY",
+            "(<3 DAYS)"
+        ],
+        "avg_order_kg": 10.9
+    },
+    "Haiti Orphanage Project Espwa": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "OTHER FOOD",
+            "COOKING SAUCE",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 2306.58
+    },
+    "Heart To Hand Limerick": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 48.27
+    },
+    "Hospital Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 41.8
+    },
+    "Irish Street League": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "FRUIT",
+            "CONFECTIONERY",
+            "BREAKFAST",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 17.81
+    },
+    "Islamic Relief Ireland": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "FRUIT",
+            "DRINKS",
+            "BREAKFAST",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 10.69
+    },
+    "IUNVA Post 27 - Portlaoise": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "BREAD",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 16.39
+    },
+    "IWA Lucan": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAD",
+            "DAIRY",
+            "HOT DRINKS",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 10.37
+    },
+    "JADD Project Ltd": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "VEGETABLES",
+            "SAVOURY SNACKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 6.62
+    },
+    "Kells Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 15.07
+    },
+    "Kildare Carers Association (Carbury Branch)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "VEGETABLES",
+            "TINNED",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 20.43
+    },
+    "Kildare Town Community & FRC": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "BREAD",
+            "DAIRY",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 6.92
+    },
+    "Kilkenny Community Church": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "DRINKS",
+            "VEGETABLES",
+            "BREAD"
+        ],
+        "avg_order_kg": 11.24
+    },
+    "Killarney Community Services": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "CONFECTIONERY",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 5.07
+    },
+    "Killinarden Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 12.26
+    },
+    "Killinarden Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 5.55
+    },
+    "Kilmovee Family Resource Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DAIRY",
+            "DRINKS",
+            "MEAT",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 21.71
+    },
+    "Kilnamanagh Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "BREAD"
+        ],
+        "avg_order_kg": 9.27
+    },
+    "Laois County Council": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "FRUIT",
+            "DRINKS",
+            "CONFECTIONERY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 9.86
+    },
+    "Le Cheile Simonstown Childcare Facility CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "COOKING SAUCE",
+            "RICE/PASTA/PULSES",
+            "DAIRY",
+            "DRINKS",
+            "TINNED"
+        ],
+        "avg_order_kg": 5.83
+    },
+    "Liberties Community Development Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "FRUIT",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 7.11
+    },
+    "Light for the People Ministries CLG": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "BREAKFAST",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 17.23
+    },
+    "Limerick Island Community Partners": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "RICE/PASTA/PULSES",
+            "HOT DRINKS",
+            "TINNED",
+            "MEAT"
+        ],
+        "avg_order_kg": 8.8
+    },
+    "Linx Project Limited": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "MEAT",
+            "TINNED",
+            "(<3 DAYS)",
+            "FRUIT"
+        ],
+        "avg_order_kg": 22.67
+    },
+    "Longford Community Resources Clg": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "VEGETABLES",
+            "TINNED",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 22.02
+    },
+    "Love and Care for People": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "RICE/PASTA/PULSES",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "DRINKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 10.93
+    },
+    "Mahon Family Resource Centre": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "TINNED",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 8.79
+    },
+    "Main Street Food Bank Naas": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "VEGETABLES",
+            "TINNED",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 14.49
+    },
+    "Mallow Sheltered Care": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "MEAT",
+            "DAIRY"
+        ],
+        "avg_order_kg": 10.54
+    },
+    "Manna Charity Shop (Manna Food Pantry)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "TINNED",
+            "DAIRY",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 18.54
+    },
+    "McCauley Day Care": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "DAIRY",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 8.56
+    },
+    "Meals on Wheels Tipperary": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 119.04
+    },
+    "Meath Women's Refuge and Support Services": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.2
+    },
+    "Merchants Quay Ireland": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 32.44
+    },
+    "Merrick House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DAIRY",
+            "DRINKS",
+            "FRUIT",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.43
+    },
+    "Methodist Church Carlow": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 101.89
+    },
+    "Mid West Simon": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 340.18
+    },
+    "Misneach Ukraine": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "SAVOURY SNACKS",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "TINNED"
+        ],
+        "avg_order_kg": 26.53
+    },
+    "Mohill Family Support Centre CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 52.71
+    },
+    "Mullingar Lions Club": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "RICE/PASTA/PULSES",
+            "SOUP",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 6.51
+    },
+    "Music Together": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "FRUIT",
+            "DESSERT AND CAKE",
+            "VEGETABLES",
+            "CONFECTIONERY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 2.73
+    },
+    "Muslim Sisters of Eire": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "FRUIT",
+            "SAVOURY SNACKS",
+            "BREAKFAST",
+            "BREAD"
+        ],
+        "avg_order_kg": 14.03
+    },
+    "Navan Community Childcare Ltd (Daoine oige)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "DAIRY",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 16.22
+    },
+    "New Hope Residential Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "OTHER FOOD",
+            "VEGETABLES",
+            "TINNED"
+        ],
+        "avg_order_kg": 15.78
+    },
+    "North Connaught Youth and Community Service": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 40.97
+    },
+    "Northside Community Enterprises NCE": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "CONFECTIONERY",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 7.83
+    },
+    "Northside Home Care Service": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "TINNED",
+            "OTHER FOOD",
+            "SMD",
+            "BREAD",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 14.99
+    },
+    "Novas Brother Russell House": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "CONFECTIONERY",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.77
+    },
+    "Novas Initiatives McGarry House": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "CONFECTIONERY",
+            "RICE/PASTA/PULSES",
+            "MEAT"
+        ],
+        "avg_order_kg": 11.21
+    },
+    "Novas Limerick": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 32.79
+    },
+    "Novas Spade Enterprise Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAKFAST",
+            "DAIRY",
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 10.36
+    },
+    "O Connell Court": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "MEAT",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.12
+    },
+    "Obair": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "TINNED",
+            "MEAT"
+        ],
+        "avg_order_kg": 12.69
+    },
+    "One Community Cork": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "MEAT",
+            "DAIRY",
+            "FRUIT"
+        ],
+        "avg_order_kg": 14.87
+    },
+    "Our Lady's Nursery Ltd": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD",
+            "DRINKS",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 20.49
+    },
+    "Piltown Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 13.9
+    },
+    "Poppintree Early Education Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAD",
+            "CONFECTIONERY",
+            "BREAKFAST",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 8.47
+    },
+    "Ranelagh Community Response Clg": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "DAIRY",
+            "TINNED"
+        ],
+        "avg_order_kg": 6.27
+    },
+    "RCCG Miracle Land": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAKFAST",
+            "VEGETABLES",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 18.99
+    },
+    "Redclyffe Good Shepherd Cork": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "MEAT",
+            "TINNED"
+        ],
+        "avg_order_kg": 8.63
+    },
+    "Rediscovery Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "FRUIT",
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 9.78
+    },
+    "Remar Recovery Home": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "RICE/PASTA/PULSES",
+            "DAIRY",
+            "Unknown"
+        ],
+        "avg_order_kg": 8.6
+    },
+    "Respond Family Hub High Park": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "FRUIT",
+            "BREAD"
+        ],
+        "avg_order_kg": 8.32
+    },
+    "REVIVE New Ross Community Foodbank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 44.61
+    },
+    "Ronald McDonald House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SAVOURY SNACKS",
+            "BREAKFAST",
+            "DRINKS",
+            "CONFECTIONERY",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 32.98
+    },
+    "Ronanstown Community Childcare Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAD",
+            "BREAKFAST",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 7.98
+    },
+    "Saint Benedict's Priory": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAKFAST",
+            "DAIRY",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.22
+    },
+    "Salvation Army Clonard Road": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 4.87
+    },
+    "Salvation Army Greencastle Parade": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 6.33
+    },
+    "Salvation Army Houben House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.65
+    },
+    "Salvation Army Rease House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 4.22
+    },
+    "Saoirse Tallaght": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 17.44
+    },
+    "SAOL Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "HERB/SPICE/CONDIMENT",
+            "SAVOURY SNACKS",
+            "PRESERVES"
+        ],
+        "avg_order_kg": 10.88
+    },
+    "Sherrard House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "TINNED",
+            "CONFECTIONERY",
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 4.38
+    },
+    "Simon Galway - Abbey House": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "VEGETABLES",
+            "TINNED"
+        ],
+        "avg_order_kg": 10.98
+    },
+    "Simon Galway - College Road": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "VEGETABLES",
+            "TINNED"
+        ],
+        "avg_order_kg": 5.74
+    },
+    "Simon Galway - Hazel Park": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "VEGETABLES",
+            "TINNED",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 5.56
+    },
+    "Simon Galway - Knockrea Hse": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "DAIRY",
+            "MEAT",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.11
+    },
+    "Simon Galway - Outreach Project": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "(<3 DAYS)",
+            "VEGETABLES",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 10.45
+    },
+    "Simon Galway - Volunteer House": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 69.12
+    },
+    "Skibbereen Community & Family Resource Centre": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "BREAKFAST",
+            "RICE/PASTA/PULSES",
+            "DRINKS",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.15
+    },
+    "Sligo Family Resource Centre": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 25.07
+    },
+    "Sligo Foodbank": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "BREAKFAST",
+            "VEGETABLES",
+            "TINNED"
+        ],
+        "avg_order_kg": 20.32
+    },
+    "Solas Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 14.68
+    },
+    "Sons of Divine Providence/Orione": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "MEAT"
+        ],
+        "avg_order_kg": 7.66
+    },
+    "Sophia Housing Association": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "TINNED",
+            "HOT DRINKS"
+        ],
+        "avg_order_kg": 9.04
+    },
+    "South Dublin Senior Citizens Club": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "FRUIT",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 11.23
+    },
+    "South East Simon (collected by Cork Simon)": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "OTHER FOOD",
+            "SMD"
+        ],
+        "avg_order_kg": 7.5
+    },
+    "South Kerry Development Partnership CLG": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "RICE/PASTA/PULSES",
+            "TINNED",
+            "DAIRY"
+        ],
+        "avg_order_kg": 12.98
+    },
+    "South West Wexford Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "FRUIT",
+            "DRINKS",
+            "DAIRY",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 20.53
+    },
+    "SPEIR Students Union Pantry": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "DAIRY",
+            "VEGETABLES",
+            "TINNED",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 17.66
+    },
+    "Spraoi Community Childcare": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DAIRY",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 37.65
+    },
+    "St Clare's Hospitality Food Kitchen CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "VEGETABLES",
+            "TINNED",
+            "BREAD",
+            "MEAT"
+        ],
+        "avg_order_kg": 38.04
+    },
+    "St Martha's Conference (Food Bank)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT"
+        ],
+        "avg_order_kg": 123.91
+    },
+    "St Martha's SVP North Central Inner-City food-bank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "FRUIT",
+            "DRINKS",
+            "HOT DRINKS",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 158.48
+    },
+    "St Martha's SVP North East Inner-City food-bank": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "SOUP"
+        ],
+        "avg_order_kg": 117.49
+    },
+    "St. Fiacc's House Ltd": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "HERB/SPICE/CONDIMENT",
+            "BREAD",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 6.9
+    },
+    "SVP Ardmore (St Declan`s)": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.48
+    },
+    "SVP Ballina": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "MEAT",
+            "VEGETABLES",
+            "DAIRY",
+            "TINNED"
+        ],
+        "avg_order_kg": 13.53
+    },
+    "SVP Ballyfermot Clondalkin": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD",
+            "SAVOURY SNACKS",
+            "CONFECTIONERY"
+        ],
+        "avg_order_kg": 33.6
+    },
+    "SVP Birr": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "VEGETABLES",
+            "DRINKS"
+        ],
+        "avg_order_kg": 19.63
+    },
+    "SVP Castleconnell": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "DRINKS",
+            "TINNED",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 31.64
+    },
+    "SVP Clara": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "TINNED",
+            "BREAKFAST",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 34.08
+    },
+    "SVP Durrow": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 24.63
+    },
+    "SVP Edenderry": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 11.48
+    },
+    "SVP Fermoy": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "VEGETABLES",
+            "TINNED"
+        ],
+        "avg_order_kg": 56.43
+    },
+    "SVP Galway GAC": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "TINNED",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 46.81
+    },
+    "SVP Kildare": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 7.04
+    },
+    "SVP Mallow": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "VEGETABLES",
+            "TINNED",
+            "DRINKS",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 20.08
+    },
+    "SVP St Fiachras": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "DAIRY",
+            "MEAT",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 108.11
+    },
+    "SVP St Francis Conference": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "BREAKFAST",
+            "SAVOURY SNACKS",
+            "READY MEALS"
+        ],
+        "avg_order_kg": 14.86
+    },
+    "SVP Thurles (St. Josephs)": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 19.16
+    },
+    "Tallaght Probation Project": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "TINNED",
+            "DAIRY",
+            "HERB/SPICE/CONDIMENT"
+        ],
+        "avg_order_kg": 5.95
+    },
+    "Tallaght Travellers CDP": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 25.09
+    },
+    "Tasnuva Shamim": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "RICE/PASTA/PULSES",
+            "DRINKS",
+            "SAVOURY SNACKS",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 16.22
+    },
+    "The Cavan Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 21.63
+    },
+    "The Exchange Inishowen": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "BREAKFAST",
+            "VEGETABLES",
+            "FRUIT",
+            "DRINKS",
+            "TINNED"
+        ],
+        "avg_order_kg": 17.36
+    },
+    "The Hope Centre Kimmage": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "FRUIT",
+            "DAIRY",
+            "TINNED"
+        ],
+        "avg_order_kg": 6.97
+    },
+    "The Iveagh Trust": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "DRINKS",
+            "BREAD",
+            "FRUIT",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 9.18
+    },
+    "The Mendicity": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "VEGETABLES",
+            "OTHER FOOD",
+            "DAIRY"
+        ],
+        "avg_order_kg": 10.61
+    },
+    "The Rainbow Club Cork": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "CONFECTIONERY",
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 202.76
+    },
+    "The Redeemed Christian Church of God Hope of Glory Balrothery": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "BREAKFAST",
+            "COOKING SAUCE",
+            "TINNED",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 11.99
+    },
+    "The Redeemed Christian Church of God Open Heaven": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "FRUIT",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "SAVOURY SNACKS",
+            "DESSERT AND CAKE"
+        ],
+        "avg_order_kg": 9.22
+    },
+    "The Storehouse - St. James`s Church, Crinken": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "BREAKFAST",
+            "DRINKS",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 24.04
+    },
+    "The Well Spring of Life Refuge": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "TINNED",
+            "DRINKS",
+            "HERB/SPICE/CONDIMENT",
+            "VEGETABLES",
+            "BREAKFAST"
+        ],
+        "avg_order_kg": 8.92
+    },
+    "Tiglin Challenge": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 22.75
+    },
+    "Tiglin Challenge Ltd (Mens)": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "FRUIT",
+            "SAVOURY SNACKS",
+            "DAIRY"
+        ],
+        "avg_order_kg": 14.11
+    },
+    "Tipperary Community Council Ltd": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "TINNED",
+            "MEAT",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 21.88
+    },
+    "Trim Community Childcare": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "SAVOURY SNACKS",
+            "COOKING SAUCE"
+        ],
+        "avg_order_kg": 7.91
+    },
+    "Trim Family Resource Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "OTHER FOOD",
+            "TINNED",
+            "VEGETABLES"
+        ],
+        "avg_order_kg": 16.49
+    },
+    "Trinity Church Network - Mustard Seed Soup Run": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "FRUIT"
+        ],
+        "avg_order_kg": 49.96
+    },
+    "Tubbercurry FRC": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 39.4
+    },
+    "Tullamore Social Services Ltd.": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 96.08
+    },
+    "Tullow Day Care Centre CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED",
+            "OTHER FOOD"
+        ],
+        "avg_order_kg": 45.03
+    },
+    "Waterford Food Bank": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "DRINKS",
+            "TINNED",
+            "BREAKFAST",
+            "RICE/PASTA/PULSES"
+        ],
+        "avg_order_kg": 49.2
+    },
+    "WE CARE LK FOOD BANK": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 76.92
+    },
+    "West Waterford Festival of Food": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "BREAKFAST",
+            "CONFECTIONERY",
+            "FRUIT",
+            "DRINKS"
+        ],
+        "avg_order_kg": 6.63
+    },
+    "Westgate Foundation": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "DRINKS",
+            "VEGETABLES",
+            "DAIRY",
+            "CONFECTIONERY",
+            "HOT DRINKS"
+        ],
+        "avg_order_kg": 10.64
+    },
+    "Wexford Christian Community Church": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 82.2
+    },
+    "Whitefriar Community Centre": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED",
+            "DRINKS"
+        ],
+        "avg_order_kg": 26.12
+    },
+    "Young at Heart Douglas Seniors": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "TINNED"
+        ],
+        "avg_order_kg": 21.1
+    },
+    "Youth Work Ireland Midlands": {
+        "location": "GALWAY",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "DRINKS",
+            "TINNED",
+            "DAIRY"
+        ],
+        "avg_order_kg": 40.24
+    },
+    "Youthreach Wexford": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SMD",
+            "OTHER FOOD",
+            "TINNED"
+        ],
+        "avg_order_kg": 12.43
+    },
+    "FT Tuesday St Fiaccs House": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "BREAD",
+            "FRUIT"
+        ],
+        "avg_order_kg": 15.25
+    },
+    "Dublin West Childcare/Startbright Bawnogue": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "TINNED",
+            "BREAKFAST",
+            "DAIRY"
+        ],
+        "avg_order_kg": 10.47
+    },
+    "Donegal Local Development CLG": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "VEGETABLES",
+            "FRUIT"
+        ],
+        "avg_order_kg": 180.56
+    },
+    "Cork Foyer": {
+        "location": "CORK",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "SAVOURY SNACKS"
+        ],
+        "avg_order_kg": 0.34
+    },
+    "FT Friday Whitefriar Aungier Area Community Council": {
+        "location": "DUBLIN",
+        "membership_tier": "Bronze",
+        "active_requests": [],
+        "preferences": [
+            "MEAT",
+            "DRINKS"
+        ],
+        "avg_order_kg": 15.88
+    }
+}
