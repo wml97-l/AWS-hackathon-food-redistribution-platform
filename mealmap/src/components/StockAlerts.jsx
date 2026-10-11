@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react';
 import './StockAlerts.css';
 
-const API_BASE = 'http://localhost:5001';
-
+const API_BASE =
+  import.meta.env.VITE_API_BASE_URL || 'http://localhost:5001';
+  
 function StockAlerts() {
   const [stockData, setStockData] = useState(null);
   const [loading, setLoading] = useState(true);
