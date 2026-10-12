@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './GapAnalysis.css';
 
-const API_BASE = 'http://localhost:5001';
+const API_BASE = 'https://mealmap-api-7vkv.onrender.com';
 
 const SAMPLE_PROMPTS = [
   // Original prompts
