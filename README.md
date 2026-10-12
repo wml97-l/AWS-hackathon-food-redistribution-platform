@@ -224,6 +224,9 @@ Open <https://wml97-l.github.io/AWS-hackathon-food-redistribution-platform/>
 
 ---
 
+   > 👥 **Team project** built at the AWS Breaking Barriers Hackathon.
+   > Original repository: [owner/mealmap-ui](https://github.com/OWNER/mealmap-ui) · This copy is maintained by me to showcase my contribution.
+
 ## 🔭 What I would build next
 
 - Deploy the Flask API (AWS Lambda + API Gateway) so the hosted dashboard is fully live
